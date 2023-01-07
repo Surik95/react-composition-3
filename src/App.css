@@ -31,8 +31,6 @@
   background-color:rgb(49, 49, 221);
   border-radius: 3px;
   text-decoration: none;
-  opacity: 1;
-  transition: opacity 1s;
 }
 
 .btn:focus {
